@@ -1,1 +1,2 @@
-# lista-u-ytkownik-w
+Kacper Twardy 
+Lista uzytkownikow
