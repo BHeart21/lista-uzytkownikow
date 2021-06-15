@@ -1,2 +1,0 @@
-Kacper Twardy 
-Lista uzytkownikow
